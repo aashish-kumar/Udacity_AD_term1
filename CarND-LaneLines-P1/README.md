@@ -49,3 +49,7 @@ i) Perspective correction can be done and then problem will be reduced to find t
 ii) Curve fitting can be improved by a better preprocessing module.
 iii) Yellow lines always occur on the left side. This information can be used to improve yellow lane line detection.
 iv) Temporal Data across different frame can be used in a more refined manner to add missing information for better curve fitting.
+
+### Reference/Code Usage Sources:
+http://opencvpython.blogspot.in/2012/05/skeletonization-using-opencv-python.html
+https://gist.github.com/geohot/9743ad59598daf61155bf0d43a10838c
