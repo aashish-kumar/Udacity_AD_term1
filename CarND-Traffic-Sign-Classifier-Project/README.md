@@ -68,7 +68,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-I tried an interesting approach of building the whole network of my own with inspiration from Inception module in googlenet as I wanted to explore the hyperparameters impact on learning. Here is a link to my [project code](https://github.com/aashish-kumar/Udacity_AD_term1/tree/master/CarND-Traffic-Sign-Classifier-P2)
+I tried an interesting approach of building the whole network of my own with inspiration from Inception module in googlenet as I wanted to explore the hyperparameters impact on learning. Here is a link to my [project code](https://github.com/aashish-kumar/Udacity_AD_term1/blob/master/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
